@@ -5,4 +5,5 @@ if a < b:
 elif a > b:
     print("no!")
 a += b
-print (a);
+print (a)
+print (b)
